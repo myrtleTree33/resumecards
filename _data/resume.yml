@@ -4,9 +4,9 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
+photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAANtAAAAJDQzMTY4NzMzLWVmYjQtNDM0MC1hODkxLWEyMzlmNjA4NmRmNw.jpg"
 name: "Joel H. Tong"
-copy: "A Web and Firmware developer.  Seeking job opportunities in Singapore, South Korea or America."
+copy: "Web, Design and Firmware developer.  Seeking job opportunities in Singapore, South Korea or America."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
